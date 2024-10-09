@@ -52,7 +52,7 @@ _Crédit Agricole Corporate and Investment Bank, London (June 2024 - September 2
 
 ## Projects
 
-**Estimating Galaxy Masses from 3D Survey Data**  
+[**Estimating Galaxy Masses from 3D Survey Data**](https://github.com/sjl-03/sjl-03.github.io/raw/main/Estimating_Galaxy_Masses_from_3D_Galaxy_Survey_Data%20(4)%5B4467%5D.pdf)
 _King’s College London Certificate, Distinction_
 
 A collaborative research-based project where we established and tuned the prediction model of galaxy mass through machine learning algorithms over Python, evaluated the model's accuracy, and compared it with the SDSS data.
