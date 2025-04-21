@@ -65,7 +65,7 @@ A collaborative research-based project where we established and tuned the predic
 
 ## Achievements
 
-- **Supervised Machine Learning: Regression and Classification**, DeepLearning.AI (Coursera)
+- [**Supervised Machine Learning: Regression and Classification**](https://coursera.org/share/3ea99d24d4730c4c38167bd5fc6cca1b), DeepLearning.AI (Coursera)
 - **Senior Mathematical Challenge 2021**, Gold Certificate
 - **British Physics Olympiad 2021**, Bronze Award
 
