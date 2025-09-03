@@ -52,6 +52,14 @@ _Crédit Agricole Corporate and Investment Bank, London (June 2024 - September 2
 
 ## Projects
 
+[**Steam Data Analysis: Factors Influencing Player Reviews**]()
+_Individual university coursework project_
+
+- Analysed gaming data to identify factors affecting player reviews using Poisson regression and hypothesis testing.
+- Applied data cleaning, feature engineering, and exploratory analysis techniques in Python.
+- Built statistical models and generated insights through visualisations (heatmaps, KDE plots, boxplots).
+- Delivered a structured written report with actionable findings.
+
 [**Estimating Galaxy Masses from 3D Survey Data**](https://github.com/sjl-03/sjl-03.github.io/raw/main/Estimating_Galaxy_Masses_from_3D_Galaxy_Survey_Data%20(4)%5B4467%5D.pdf)
 _King’s College London Certificate, Distinction_
 
