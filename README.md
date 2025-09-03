@@ -52,7 +52,7 @@ _Crédit Agricole Corporate and Investment Bank, London (June 2024 - September 2
 
 ## Projects
 
-[**Steam Data Analysis: Factors Influencing Player Reviews**]()
+[**Steam Data Analysis: Factors Influencing Player Reviews**](https://raw.githubusercontent.com/sjl-03/sjl-03.github.io/main/Analysing%20the%20Factors%20That%20Influence%20Player%20Reviews%20on%20Steam.pdf)
 _Individual university coursework project_
 
 - Analysed gaming data to identify factors affecting player reviews using Poisson regression and hypothesis testing.
