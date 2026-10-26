@@ -5,9 +5,30 @@
 
 ---
 
-## Profile
+Welcome to my website! I am a final-year student studying BSc Computer Science and Mathematics at the University of Edinburgh. I am interested in computer graphics and computer vision, and I am currently working on my dissertation project on flow in MRI slices. 
 
-I am a dedicated and dependable team player with a robust passion for computing. My ability to learn rapidly and excel academically showcases my independence. I am always seeking opportunities to broaden my skills and knowledge, particularly in teamwork, problem-solving, and time management.
+
+---
+
+## Experience
+
+**Software Engineer Intern**
+_Cadence, Edinburgh (June 2026 - Aug 2026)_
+
+- Developed a Qt-based user interface and C++ implementation for a new ADE feature in Virtuoso, targeted for inclusion in a customer-facing release
+- Worked across multiple languages, including C++, Python, and SKILL
+- Collaborated with different teams across various locations to integrate the new workflow
+- Tested and debugged the full workflow
+- Worked in a Linux development environment and within an established production codebase
+
+**IT Summer Intern**
+_Crédit Agricole Corporate and Investment Bank, London (June 2024 - September 2024)_
+
+- Designed and implemented new data/stream pipelines using Elastic Stack for Solace and Device42 logs/metrics, ensuring full end-to-end integration.
+- Collaborated with Fixed Income Application/Dev teams to manage key data for optimised performance.
+- Developed and deployed custom Kibana dashboards for real-time system monitoring.
+- Created Power BI dashboards for trend analysis of data centre power metrics, identifying opportunities for power savings.
+- Managed the EMEA Project Deck using JIRA, ensuring accurate tracking for the Change Advisory Board.
 
 ---
 
@@ -15,13 +36,6 @@ I am a dedicated and dependable team player with a robust passion for computing.
 
 **University of Edinburgh**  
 _BSc Computer Science and Mathematics (2023 - 2027)_
-
-- Introduction to Computation  
-- Object Oriented Programming  
-- Introduction to Linear Algebra  
-- Calculus and its Applications  
-- Proofs and Problem Solving  
-- Fundamentals of Algebra and Calculus  
 
 **King’s College London Mathematics School**  
 _A-Levels (2020 - 2022)_
@@ -35,22 +49,9 @@ _GCSEs (2015 - 2020)_
 - 11 GCSEs including English  
 - 3 Grade 9s, 4 Grade 8s, and 4 Grade 7s  
 
----
-
-## Experience
-
-**IT Summer Intern**  
-_Crédit Agricole Corporate and Investment Bank, London (June 2024 - September 2024)_
-
-- Designed and implemented new data/stream pipelines using Elastic Stack for Solace and Device42 logs/metrics, ensuring full end-to-end integration.
-- Collaborated with Fixed Income Application/Dev teams to manage key data for optimized performance.
-- Developed and deployed custom Kibana dashboards for real-time system monitoring.
-- Created Power BI dashboards for trend analysis of data centre power metrics, identifying opportunities for power savings.
-- Managed the EMEA Project Deck using JIRA, ensuring accurate tracking for the Change Advisory Board.
-
----
-
 ## Projects
+
+
 
 [**Steam Data Analysis: Factors Influencing Player Reviews**](https://raw.githubusercontent.com/sjl-03/sjl-03.github.io/main/Analysing%20the%20Factors%20That%20Influence%20Player%20Reviews%20on%20Steam.pdf)
 _Individual university coursework project_
@@ -72,7 +73,6 @@ A collaborative research-based project where we established and tuned the predic
 ---
 
 ## Achievements
-
 - [**Supervised Machine Learning: Regression and Classification**](https://coursera.org/share/3ea99d24d4730c4c38167bd5fc6cca1b), DeepLearning.AI (Coursera)
 - **Senior Mathematical Challenge 2021**, Gold Certificate
 - **British Physics Olympiad 2021**, Bronze Award
